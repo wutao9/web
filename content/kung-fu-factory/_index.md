@@ -3,6 +3,7 @@ title: "Kung-fu Factory"
 menu:
   main:
     weight: 2
+layout: single
 ---
 ## Kung-fu škola pro děti
 
@@ -17,6 +18,8 @@ St, Pá 16:30 - 18:00 (začátečníci 16:30 - 17:30)
 Čt 15:00 - 17:00
 
 JABOK, Salmovská 8, Praha 2 (na základě nominace, úterky a středy od 18:00).
+
+[Podklady ke zkouškám](/kung-fu-factory/exams/)
 
 ## Instruktoři
 
