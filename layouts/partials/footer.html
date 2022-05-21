@@ -1,0 +1,20 @@
+<footer id="footer">
+  <div class="container">
+    <div class="row wow fadeInUp" data-wow-duration="500ms">
+      <div class="col-xl-12">
+        {{"<!-- copyright -->" | safeHTML}}
+        <div class="copyright text-center">
+          <a href="{{ site.Home.Permalink }}">
+            <img src="/images/wutao_text.png" alt="{{ site.Title }}" class="logo-footer"/>
+          </a>
+          <br>
+          <p>Copyright &copy; {{ site.Params.copyright }}-{{ now.Year }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ range site.Params.plugins.js}}
+<script src="{{ .link }}"></script>
+{{ end }}

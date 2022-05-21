@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<section class="section">
+  <div class="container">
+    <div class="col-lg-8 offset-lg-2 text-center">
+      <h1>{{ .Title }}</h1>
+      <div class="article-author-date">
+      <em>Autor: {{ .Params.Author }}, {{ dateFormat "2. January 2006" .Date }}</em>
+      </div>
+    </div>
+    <div class="col-lg-8 offset-lg-2">
+      <div class="post-single-content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
