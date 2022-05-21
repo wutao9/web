@@ -1,0 +1,14 @@
+---
+date: 2013-08-10
+featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+title: "3. Wude a právo svrhnout císaře"
+author: "Marie Zhai"
+---
+Bojové umění sehrálo v dějinách Číny důležitou úlohu. Těžké je však odlišit legendy od historické skutečnosti. Třetí článek věnovaný čínským bojovým uměním.
+<!--more-->
+
+![válka dynastie Zhou](/images/wushu-3-valka-dynastie-zhou.jpg#float)
+
+Nejznámějším případem, kdy bojová etika *wude* (武德) zasáhla do dějin Číny, je pád dynastie *Shang* a vzestup dynastie *Zhou* kolem roku 1000 př. n.l. Jelikož je to minulost tak dávná, je opředena mnoha legendami. Až o více než 2500 let poté (za dynastie *Ming*) byl příběh této války zpracován v klasickém románu s názvem *Fengshen Bang* (封神榜). Toto dílo líčí dramatický boj obou dynastií, do kterého se kromě historických postav na obou stranách zapojují i postavy mytologické. Tento příběh je dodnes stále populární v Číně i Japonsku, dočkal se různých literárních i filmových adaptací a inspiroval i tvůrce počítačových her. Mezi četnými postavami se v knize vyskytují i tzv. „nesmrtelní“ (*shenxian* 神仙), kteří disponují nadlidskou silou a magickými schopnostmi. Předlohou pro tyto „nesmrtelné“ byli tehdejší váleční hrdinové, kteří padli v boji a hlavní stratég armády dynastie *Zhou* jim oficiálně udělil nebeské hodnosti, aby tak podpořil bojovou morálku vojska. Někteří z těchto hrdinů byli bojovníci a mistři starodávného bojového umění, které ještě nemělo vyhraněný styl a které se označovalo jen jednoduše slovem *wu* (boj). Ve shodě s *wude* se jich valná většina přidala na stranu *Zhou*, protože poslední císař dynastie *Shang* byl tyran a zhýralec a země za jeho vlády upadala. Prostý lid a řadoví vojáci, jejichž bojové schopnosti nebyli valné a pověrčivost naopak velká, nadpřirozeným schopnostem těchto hrdinů věřili.
+
+První císaři dynastie *Zhou* byli považováni za příkladné vládce. Aby ještě více posílili legitimitu převzetí moci, vytvořili doktrínu o nebeském původu císaře, která se stala v Číně všeobecně přijímanou. Od té doby byl císař pokládán za prostředníka mezi nebem a zemí a jako takový byl na zemi nezpochybnitelným a neomezeným vládcem, neboť měl k vládě nebeské pověření, tzv. „mandát nebes“ *tianming* (天命). Císař však měl být v ideálním případě také morální autoritou. Jeho úkolem bylo provádět předepsané prastaré rituály, kterými se nastolovala harmonie v „podnebesí“ a které zabezpečovaly pro celou zemi mír a blahobyt. Došlo-li k morálnímu úpadku a císař vládu zanedbával, harmonie mezi nebem a zemí byla narušena, což bylo doprovázeno znameními jako zemětřesení, záplavy, hladomory a nepokoje mezi obyvatelstvem. To bylo důkazem, že císař „mandát nebes“ ztratil a ospravedlňovalo to povstání a nastolení nové dynastie. To jsme již od našeho tématu trochu odbočili, ale vrátíme se k němu opět v následujícím díle, kde si ještě představíme některé významné historické osobnosti, ovládající bojové umění, jmenovitě.

@@ -1,0 +1,22 @@
+baseurl = "https://wutao.onrender.com/"
+title = "Wutao: Wudang Kung-Fu Association"
+paginate = 12
+defaultContentLanguage = "cs"
+languageCode = "cs-CZ"
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Fira+Sans|Encode+Sans:400,600&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+
+[params]
+logo = "images/wutao.png"
+description = "Wudang Kung-fu Association"
+copyright = "2011"
