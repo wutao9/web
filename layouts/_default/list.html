@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Články</h1>
+        <h1>{{ .Params.title }}</h1>
       </div>
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
