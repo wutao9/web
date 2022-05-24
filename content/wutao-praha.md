@@ -6,8 +6,6 @@ menu:
 ---
 ## Kurzy
 
-Kurzovné je 800,- Kč za jeden kurz měsíčně, 1200,- Kč za dva a více kurzů.
-
 ### Úterý
 18:00-19:00 **xingyiquan** - Pavel Bouchal  
 19:00-20:00 **baguazhang** - Stano Jurík  
@@ -17,6 +15,8 @@ Kurzovné je 800,- Kč za jeden kurz měsíčně, 1200,- Kč za dva a více kurz
 18:00-19:00 **xingyiquan** - Pavel Bouchal  
 19:00-20:00 **baguazhang** - Stano Jurík  
 20:00-21:00 **Wudang taijiquan** - Stano Jurík
+
+Kurzovné je 800,- Kč za jeden kurz měsíčně, 1200,- Kč za dva a více kurzů.
 
 Dále probíhají kurzy *baji* a *sanda*, pro bližší informace kontaktujte Tomáše Štorka, tel.: 608875231.
 
