@@ -4,13 +4,11 @@
       <div class="col-xl-12">
         {{"<!-- copyright -->" | safeHTML}}
         <div class="copyright text-center">
-          {{ if not (eq .Kind "home") }}
           <a href="{{ site.Home.Permalink }}">
-            <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" />
+            <img src="{{ site.Params.footerlogo | absURL }}" alt="{{ site.Title }}" />
           </a>
           <br>
-          {{ end }}
-          <p>Copyright &copy; {{ site.Params.copyright }}-{{ now.Year }}</p>
+          <p>{{ site.Params.copyright | markdownify }}</p>
         </div>
       </div>
     </div>

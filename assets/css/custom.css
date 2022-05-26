@@ -1,0 +1,119 @@
+body {
+    font-family: "Encode Sans", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#content {
+    flex-grow: 1;
+}
+
+a {
+  transition: all .2s ease-in 0s;
+  color: #57c8b2;
+}
+
+a:focus,
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #f2fbff;
+    margin: 0.5rem 0rem .2rem;
+}
+h2{margin: 2rem 0rem 1rem;}
+h3, h4, h5, h6{margin: 1.5rem 0rem .5rem;}
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.6rem;
+}
+
+h3 {
+    font-size: 1.1rem;
+}
+
+p b, p strong, p{
+    color: #B7BFC7;
+}
+
+h1 {
+    margin-bottom: 1rem;
+}
+
+.section img {
+    max-width: 80%;
+}
+
+img[src$='#center'] {
+    display: block;
+    margin: 0.7rem auto;
+}
+
+img[src$='#float'] {
+    float: left;
+    margin: 0.4rem 1rem 0.4rem 0rem;
+    max-width: 40%;
+}
+
+.navbar {
+    font-family: "Fira Sans", sans-serif;
+}
+
+.hero-area {
+    height: 180px;
+    background-position: center center;
+}
+
+.hero-area:before {
+    background: unset;
+}
+.section {padding: 20px 0px 0px 0px;}
+.social-icon {padding: 0px;}
+.navbar-expand-lg .navbar-collapse{flex-grow: 0;}
+.navbar-dark .navbar-nav .nav-link{color: #f2fbff}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover{color: #57c8b2;}
+.dropdown-menu{
+    background-color: #1d2024;
+    border-color: #111;
+    box-shadow: 0px 0px 5px 0px #111;
+}
+.dropdown-item{color: #f2fbff;}
+.dropdown-item:focus, .dropdown-item:hover{
+    color: white;
+    background: linear-gradient(to right, #247061, #35A28D);
+}
+.navigation{background-color: rgba(29, 32, 36, .8);}
+.copyright{padding: 40px 0 20px 0;}
+.copyright img{margin: 0; height: 60px;}
+.copyright p{color: #c5d9e7; font-size: .9em;}
+img{vertical-align: baseline;}
+.navbar-expand-lg{justify-content: space-between;}
+.post-block{
+    background-color: #1d2024;
+    border: 1px solid #1d2024;
+    border-radius: 6px;
+    transition: all .2s ease-in 0s;
+}
+.post-block:hover{
+    background-color: black;
+    border: 1px solid #57c8b2;
+}
+.post-block a, .post-block a p, .post-block a h3{
+    transition: all .2s ease-in 0s;
+}
+.post-block a:focus, .post-block a:hover,
+.post-block a:focus p, .post-block a:hover p,
+.post-block a:focus h3, .post-block a:hover h3{
+    color: #57c8b2;
+    text-decoration: none;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-left: .8rem;
+    padding-right: .8rem;
+}

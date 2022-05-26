@@ -5,6 +5,7 @@ menu:
     parent: "wudang"
     name: "Baguazhang"
     weight: 4
+background: 'images/header4.jpg'
 ---
 Styl *baguazhang* je jedním z významných wudangských vnitřních stylů (*neijiaquan*), který se vyznačuje proměnlivými technikami dlaní a krouživými kroky. Principy tohoto stylu vychází z taoistických teorií o *taiji*, *yin*u a *yang*u. V pohybech se horizontální protíná s vertikálním, kroky jsou vedeny ve čtyřech přímých a čtyřech šikmých směrech.
 
@@ -26,4 +27,4 @@ Rychlé ruce se nevyrovnají následování půlkrokem.
 Postupuj vpřed a ustupuj vzad pouze půlkrokem,
 ovládni ruce, vyhni se technice se ztišeným duchem."
 
-Co se týče otázky vlivu *baguazhang* na zdraví, Tělovýchovný institut v Pekingu sestavil v posledních letech výzkumný tým zkoumající vliv *baguazhang* na fyziologii starších lidí. Ve výzkumu se tým zaměřil na skupinu lidí, kteří vytrvale cvičí *baguazhang* již několik let. Výsledky ukázaly, že cvičení *baguazhang* zlepšuje činnost pohybového a dýchacího ústrojí a působí příznivě na srdečně-cévní a nervový systém.
+Co se týče otázky vlivu *baguazhang* na zdraví, Tělovýchovný institut v Pekingu sestavil v posledních letech výzkumný tým zkoumající vliv *baguazhang* na fyziologii starších lidí. Ve výzkumu se tým zaměřil na skupinu lidí, kteří vytrvale cvičí *baguazhang* již několik let. Výsledky ukázaly, že cvičení *baguazhang* zlepšuje činnost pohybového a dýchacího ústrojí a působí příznivě na srdcově-cévní a nervový systém.

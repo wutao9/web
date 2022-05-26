@@ -3,6 +3,7 @@ date: 2013-09-02
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "4. Příběhy slavných bojovníků"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Pokračujeme v objasňování důležitosti etiky boje (*wude*) pro čínskou historii a kulturu na konkrétních příkladech. Čtvrtá část našeho povídání, napsaná na základě rozhovorů s mistrem Zhai Fengem.
 <!--more-->

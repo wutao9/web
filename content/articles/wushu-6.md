@@ -3,6 +3,7 @@ date: 2013-09-11
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "6. K původu bojových umění"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Jak vzniklo a jak se vyvíjelo čínské bojové umění? Šestá část povídání o čínských bojových uměních, psaná na základě rozhovorů s mistrem Zhai Fengem.
 <!--more-->

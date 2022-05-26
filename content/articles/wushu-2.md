@@ -3,6 +3,7 @@ date: 2013-07-28
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "2. Wu - aneb bojovat či nebojovat, to je oč tu běží"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Moudrost starých Číňanů ukrytá v prastarých znacích. Druhý článek ze série věnované čínským bojovým uměním na pokračování. Napsáno na základě rozhovorů s mistrem Zhai Fengem.
 <!--more-->

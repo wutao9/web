@@ -1,9 +1,9 @@
 ---
 title: "Mistr Zhai Feng"
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
     weight: 7
+background: 'images/header2.jpg'
 ---
 Narodil jsem se v prosinci 1969 ve městě Huludao v provincii Liaoning. V šesti letech jsem se začal pod vedením otce (mistra Zhai Hongyin) učit čínská bojová umění (*wushu*). Cvičil jsem rodinné tradiční *wushu*, v rámci kterého jsem se věnoval především shaolinským stylům.
 

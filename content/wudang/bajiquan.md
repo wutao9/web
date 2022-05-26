@@ -4,6 +4,7 @@ menu:
   main:
     parent: "wudang"
     weight: 2
+background: 'images/header4.jpg'
 ---
 Styl *baji*, který se dochoval dodnes, se vyznačuje tvrdostí, jednoduchostí a rychlými, prudkými pohyby. Klade velký důraz na propojení reálného boje a tréninku. Prudké zvedání a tvrdé klesání, "tvrdé otevírání bran soupeře" a neustávající postup vpřed jsou základními charakteristikami bojových technik stylu *baji*. Cvičením tohoto stylu se trénuje síla, rychlost a přesnost.
 

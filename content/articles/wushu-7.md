@@ -3,6 +3,7 @@ date: 2013-09-16
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "7. Základní pojmy taoismu"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Taoismus je filozofický systém, prověřený tisíciletími. Sedmá část ze série věnované čínským bojovým uměním, napsaná na základě rozhovorů s mistrem Zhai Fengem.
 <!--more-->

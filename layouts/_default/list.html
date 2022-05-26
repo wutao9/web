@@ -6,7 +6,9 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>{{ .Params.title }}</h1>
+        <div class="title text-center wow fadeInDown">
+          <h2>Články</h2>
+        </div>
       </div>
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}

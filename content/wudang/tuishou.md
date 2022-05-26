@@ -4,6 +4,7 @@ menu:
   main:
     parent: "wudang"
     weight: 6
+background: 'images/header4.jpg'
 ---
 Tlačící ruce (*taiji tuishou*) - cvičení ve dvojici, konfrontace se soupeřem, je nejdůležitější částí tréninku *taijiquan*, která představuje přechod od nácviku k reálnému boji. Adept je schopen nacvičované techniky aplikovat v boji pouze tehdy, ovládá-li tlačící ruce.
 

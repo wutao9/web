@@ -4,6 +4,7 @@ menu:
   main:
     parent: "wudang"
     weight: 1
+background: 'images/header4.jpg'
 ---
 Wudang kung-fu je jedním z hlavních směrů čínských bojových umění, který vychází z principů taoistické filosofie. Pro tento směr bojových umění jsou charakteristické tzv. vnitřní styly (*neijiaquan*), které kladou velký důraz na jednotu mysli a těla a na práci s vnitřní energií.
 

@@ -3,6 +3,7 @@ date: 2013-09-27
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "8. Qigong v taoistické tradici"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 O *qigong* se dnes zajímá mnoho lidí a na poptávku reaguje i nabídka – učitelů, kteří jej vyučují je také mnoho. Čím se liší „moderní“ *qigong* od tradičního?
 <!--more-->

@@ -4,6 +4,7 @@ menu:
   main:
     parent: "wudang"
     weight: 3
+background: 'images/header4.jpg'
 ---
 *Xingyiquan* patří do tradičních stylů čínských bojových umění. I když se techniky v každé škole liší, základní principy zůstávají stejné. V tomto stylu se klade důraz na to, aby „mysl vedla *qi* a *qi* vedla sílu“ (*yi yi ling qi, yi qi dao li*). Mysl a forma jsou dva aspekty, zároveň však tvoří jednotu.
 

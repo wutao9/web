@@ -3,6 +3,7 @@ date: 2013-10-08
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "9. Qigong a buddhismus"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Konečně se v našem povídání o čínských bojových uměních dostaneme i k proslulému shaolinskému klášteru...
 <!--more-->

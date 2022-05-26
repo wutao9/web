@@ -5,6 +5,7 @@ menu:
     parent: "wudang"
     name: "Taijiquan"
     weight: 5
+background: 'images/header4.jpg'
 ---
 V sestavě 108 forem *Wudang taijiquan* jsou pěstní techniky rozsáhlé a vláčné, síla se plynule vine, forma je jako tekoucí voda a tvrdé s měkkým se vzájemně doplňují (*gang-rou xiang ji*). Při cvičení vede mysl energii *qi*, *qi* rozhýbává tělo, tělo vede ruce a vše tvoří jeden celek, který je propojený s prouděním *qi* (životodárné síly) v energetických drahách. Tímto se dosahuje vnitřní pevnosti a vnější síly. Tento styl plně ztělesňuje principy taoistického „velkého předělu“ (*taiji*).
 

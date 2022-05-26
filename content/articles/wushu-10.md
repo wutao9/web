@@ -3,6 +3,7 @@ date: 2013-11-22
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "10. Buddhismus v Číně"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Kdy a jak se rozšířil v Číně buddhismus? Proč je shaolinský klášter tak slavný a proč mohli mniši jíst maso? Desátá část našeho vyprávění o čínských bojových uměních.
 <!--more-->

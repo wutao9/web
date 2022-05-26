@@ -3,6 +3,7 @@ date: 2014-10-09
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "11. Mistr a žák"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Vzájemný vztah mezi učitelem a žákem je při učení zásadní a nenahraditelný. To platí všeobecně a v bojových uměních dvojnásob.
 <!--more-->

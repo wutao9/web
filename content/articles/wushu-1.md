@@ -3,6 +3,7 @@ date: 2013-07-27
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "1. Co znamená kung-fu a wushu?"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Často používáme výrazy kung-fu a wushu, víme ale, co doopravdy znamenají? První článek ze série věnované čínským bojovým uměním na pokračování. Napsáno na základě rozhovorů s mistrem Zhai Fengem.
 <!--more-->

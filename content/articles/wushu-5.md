@@ -3,6 +3,7 @@ date: 2013-09-09
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "5. Pravidla pro život"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Cvičení bojových umění má být nerozlučně spojené i s pěstováním lidského charakteru. Pátá část našeho povídání o bojových uměních, napsaná na základě rozhovorů s mistrem Zhai Fengem.
 <!--more-->

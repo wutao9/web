@@ -3,6 +3,7 @@ date: 2013-08-10
 featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 title: "3. Wude a právo svrhnout císaře"
 author: "Marie Zhai"
+background: 'images/header2.jpg'
 ---
 Bojové umění sehrálo v dějinách Číny důležitou úlohu. Těžké je však odlišit legendy od historické skutečnosti. Třetí článek věnovaný čínským bojovým uměním.
 <!--more-->
