@@ -1,5 +1,5 @@
 title = "Wutao: Wudang Kung-Fu Association"
-paginate = 12
+pagination.pagerSize = 12
 defaultContentLanguage = "cs"
 languageCode = "cs-CZ"
 
