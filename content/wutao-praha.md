@@ -20,6 +20,8 @@ menu:
 1x týdně - 900 Kč / měsíc  
 2x týdně - 1300 Kč / měsíc
 
+Číslo účtu: **157405399/0800**
+
 Dále probíhají kurzy *baji* a *sanda*, pro bližší informace kontaktujte Tomáše Štorka, tel.: 608875231.
 
 ## Místo
