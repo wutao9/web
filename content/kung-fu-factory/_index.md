@@ -30,7 +30,7 @@ Po několika letech začátků ve stylu jižního *shaolin*u měl příležitost
 
 ## Asistenti
 
-Pavel Bouchal, Květoslava Klajblová, Jan Raška, Michal Kocourek, Tereza Fleková, Karel Rusý
+Jan Žižka, Pavel Bouchal, Jan Raška, Květoslava Klajblová
 
 ## Bankovní spojení
 
