@@ -1,9 +1,12 @@
 :root {
-  --background-color: #353b43;
-  --text-color: #b1b9c1;
+  --background-color: #e3e3e3;
+  --text-color: #474747;
+  --menu-text-color: #b1b9c1;
   --highlight-color: #55c3ad;
-  --heading-color: #dde6e9;
-  --block-background-color: #292f36;
+  --link-color: #3e8d7d;
+  --heading-color: #474747;
+  --block-background-color: #d3d3d3;
+  --block-hover-background-color: #e3e3e3;
   --menu-background-color: #1d2024;
 }
 
@@ -46,18 +49,19 @@ p b, p strong {
 
 a {
   transition: all .2s ease-in 0s;
-  color: white;
+  color: var(--link-color);
+  text-decoration: none;
 }
 
 a:focus,
 a:hover {
-  color: var(--highlight-color);
+  color: var(--link-color);
+  text-decoration: underline;
 }
 
 a,
 a:focus,
 a:hover {
-  text-decoration: none;
   outline: 0;
 }
 
@@ -134,6 +138,7 @@ img[src$='#float'] {
 
 .logo-footer {
   height: 60px;
+  opacity: 0.9;
 }
 
 .logo-navigation {
@@ -144,6 +149,11 @@ img[src$='#float'] {
   background-color: var(--block-background-color);
   color: var(--heading-color);
   margin-bottom: 10px;
+  transition: all .2s ease-in 0s;
+}
+
+.post-block:hover {
+  background-color: var(--block-hover-background-color);
 }
 
 .post-block a {
@@ -154,7 +164,6 @@ img[src$='#float'] {
 .post-block a:hover,
 .post-block a:focus h3,
 .post-block a:hover h3 {
-  color: var(--highlight-color);
 }
 
 .post-block .content {
@@ -179,20 +188,16 @@ img[src$='#float'] {
 
 .btn {
   cursor: pointer;
-  color: var(--menu-background-color);
-  border: 1px solid var(--menu-background-color);
-  background: var(--highlight-color);
+  color: var(--text-color);
+  border: 1px solid var(--text-color);
+  border-radius: 3px;
+  background: var(--background-color);
   transition: all .2s ease-in 0s;
 }
 
-.btn.active:focus,
-.btn:active:focus,
-.btn:focus {
-  color: var(--menu-background-color);
-  box-shadow: 0px 0px 3px 1px var(--highlight-color);
-}
-
 .btn:hover {
+  color: var(--background-color);
+  background: var(--text-color);
   filter: brightness(115%);
   transition: all .2s ease-in 0s;
 }
@@ -212,7 +217,7 @@ img[src$='#float'] {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: var(--text-color);
+  color: var(--menu-text-color);
 }
 
 .navbar-dark .navbar-nav .active>.nav-link,
@@ -225,13 +230,13 @@ img[src$='#float'] {
 }
 
 .dropdown-menu {
-  background-color: var(--block-background-color);
+  background-color: var(--menu-background-color);
   box-shadow: 1px 1px 5px 2px var(--menu-background-color);
   border: 0px;
 }
 
 .dropdown-item {
-  color: var(--text-color);
+  color: var(--menu-text-color);
 }
 
 .dropdown-item:focus,
@@ -254,28 +259,26 @@ img[src$='#float'] {
   display: inline-block;
   width: 40px;
   height: 40px;
-  border-radius: 0;
-  background-color: var(--block-background-color);
-  border: 1px solid var(--menu-background-color);
   text-align: center;
   margin-right: 6px;
   font-weight: 700;
+  cursor: pointer;
   color: var(--text-color);
+  border: 1px solid var(--text-color);
+  border-radius: 3px;
+  background: var(--background-color);
+  transition: all .2s ease-in 0s;
 }
 
 .pagination .page-item .page-link:hover,
 .pagination .page-item.active .page-link {
-  background: var(--highlight-color);
-  color: var(--heading-color);
-}
-
-.pagination .page-item:first-child .page-link,
-.pagination .page-item:last-child .page-link {
-  border-radius: 0;
+  background: var(--text-color);
+  color: var(--background-color);
 }
 
 .pagination .page-item.disabled .page-link {
-  color: #757a80;
+  border: 1px solid #a8a8a8;
+  color: #a8a8a8;
 }
 
 .pagination .page-item .page-link.active:focus,
@@ -288,25 +291,25 @@ img[src$='#float'] {
 .form-control,
 .form-control:focus {
   background-color: transparent;
-  color: #ddd;
 }
 
 .form-control {
   background-color: transparent;
-  border-radius: 0;
+  border-radius: 3px;
   font-family: "Fira Sans", sans-serif;
   padding: 5px 10px;
   border: 1px solid rgba(236, 239, 241, 0.2);
+  border-color: var(--text-color);
 }
 
 .form-control:focus,
 .form-control:hover {
-  border-color: var(--highlight-color);
+  border-color: var(--text-color);
   box-shadow: none;
 }
 
 #cf-submit {
-  text-align: center;
+  text-align: left;
 }
 
 .form-control ::placeholder {
