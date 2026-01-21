@@ -7,14 +7,12 @@ menu:
 ## Kurzy
 
 ### Úterý
-18:00-19:00 **xingyiquan** - Pavel Bouchal  
-19:00-20:00 **baguazhang** - Stano Jurík  
-20:00-21:00 **Wudang taijiquan** - Stano Jurík
+18:30-19:30 **xingyiquan** / **baguazhang** - Pavel Bouchal  
+19:30-20:30 **Wudang taijiquan** - Stano Jurík
 
 ### Středa
-18:00-19:00 **xingyiquan** - Pavel Bouchal  
-19:00-20:00 **baguazhang** - Stano Jurík  
-20:00-21:00 **Wudang taijiquan** - Stano Jurík
+18:30-19:30 **xingyiquan** / **baguazhang** - Pavel Bouchal  
+19:30-20:30 **Wudang taijiquan** - Stano Jurík
 
 ### Kurzovné
 1x týdně - 900 Kč / měsíc  
