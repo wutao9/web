@@ -41,10 +41,10 @@ Obsahem tohoto kurzu jsou techniky *dachengquan*, základní dovednosti, párov�
 
 ## Lektoři
 
-**Stano Jurík** - kontakt: 775224126
+**Stano Jurík** - kontakt: 775 224 126
 
-**Pavel Bouchal** - kontakt: 608753642
+**Pavel Bouchal** - kontakt: 608 753 642
 
-**Tomáš Štorek** - specializace *sanda*, kontakt: 608875231
+**Tomáš Štorek** - specializace *sanda*, kontakt: 608 875 231
 
-**Lukáš Hrázký** - kontakt: 720174130
+**Lukáš Hrázký** - kontakt: 720 174 130
